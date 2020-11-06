@@ -1,0 +1,50 @@
+.back{
+    background-image: url(Task_3/0.png);
+    background-repeat: no-repeat;
+    background-size: 1000px;
+
+    height: 750px;
+}
+.first{
+    background-image: url(Task_3/1.png);
+    background-repeat: no-repeat;
+    background-size: 460px;
+    background-position: bottom left;
+    height: 739px;
+
+}
+.second{
+    background-image: url(Task_3/2.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position:  740px;
+    height: 920px;
+}
+.third{
+    background-image: url(Task_3/3.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: 570px;
+    height: 850px;
+}
+.fourth{
+    background-image: url(Task_3/4.png);
+    background-repeat: no-repeat;
+    background-size: 170px;
+    background-position: 670px;
+    height: 1090px
+}
+.fiveth{
+    background-image: url(Task_3/5.png);
+    background-repeat: no-repeat;
+    background-size: 230px;
+    background-position: 190px;
+    height: 860px 
+}
+.sixth{
+    background-image: url(Task_3/6.png);
+    background-repeat: no-repeat;
+    background-size: 170px;
+    background-position: 170px;
+    height: 490px
+}
